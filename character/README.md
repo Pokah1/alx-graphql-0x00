@@ -11,3 +11,15 @@ Fields included:
 - species
 - type
 - gender
+
+# Paginated Characters Query
+
+This directory contains GraphQL queries to fetch a paginated list of characters from the Rick and Morty API.
+
+Each query retrieves the following fields:
+- id
+- name
+- status
+- image
+
+Pages covered: 1 to 4.
